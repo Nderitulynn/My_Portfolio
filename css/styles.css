@@ -1,0 +1,52 @@
+/* ==========================================================================
+   Portfolio Styles - Main Stylesheet
+   Author: [Your Name]
+   ========================================================================== */
+
+/* CSS Reset and Base Styles */
+
+/* Typography */
+
+/* Layout Components */
+
+/* Navigation */
+
+/* Hero Section */
+
+.hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8fafc;
+    text-align: center;
+}
+
+.hero-container {
+    max-width: 800px;
+    padding: 2rem;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    color: #2563eb;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    color: #64748b;
+}
+
+/* About Section */
+
+/* Projects Section */
+
+/* Skills Section */
+
+/* Contact Section */
+
+/* Footer */
+
+/* Utilities */
